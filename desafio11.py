@@ -6,7 +6,7 @@ print("======== Desafio 11 ========")
 altura = float(input("Digite a altura da parede em metros: "))
 largura = float(input("Agora a largura: "))
 
-area = float(altura*largura)
+area = altura*largura
 mlata = int(2**2) #quantos metros uma lata pinta em m²
 qtdlata = int(area/mlata)
 

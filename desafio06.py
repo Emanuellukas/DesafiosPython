@@ -12,6 +12,8 @@ t = int(n1 * 3)
 r = sqrt(n1)
 
 print("O dobro de {} é {}, seu triplo equivale a {} e sua raíz quadrada equivale a {}".format(n1, d, t, r))
+
+#Maneiras diferentes de exibir na tela o mesmo resultado
 print("O dobro de", n1, "é", d, ", seu triplo é", t, "e sua raíz quadrada equivale a", r)
 print("O dobro de {} é".format(n1), d, ", seu triplo é", t, "e sua raíz quadrada equivale a", r)
 
